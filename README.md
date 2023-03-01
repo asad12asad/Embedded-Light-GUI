@@ -22,3 +22,7 @@ EGL is portable and compatible with a range of microcontrollers, from 8-bit mode
 * Utilize with any microcontroller or display thanks to hardware independence
 
 * Scalable: having a low memory requirement (64 kB Flash, 16 kB RAM)
+
+# EGL Requirements:
+There is no requirement to use a specific embedded system because Egl is hardware platform-independent and can be easily ported to almost any CPU architecture. So there is no need for GPU. Only one prerequisite is required to use EGL:
+* one user pixel set function is required to put a library in the function.
