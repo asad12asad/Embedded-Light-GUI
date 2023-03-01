@@ -9,11 +9,11 @@ The architecture of EGL was inspired by WPF, and the styling came from CSS. Tech
 EGL is portable and compatible with a range of microcontrollers, from 8-bit models like the Arduino, Pic, and AVR to 32-bit models like the esp32 and stm32.
 ⋅EGL is compatible with any color, grayscale, or monochrome display.
 
-⋅⋅*EGL supports a variety of screens.
+#^ EGL supports a variety of screens.
 
-⋅⋅*Any touchscreen technology is supported by EGL
+#^ Any touchscreen technology is supported by EGL
 
-⋅⋅*EGL supports objects and windows (e.g. buttons, charts, lists, sliders, images, etc.)
+#^ EGL supports objects and windows (e.g. buttons, charts, lists, sliders, images, etc.)
 
 ⋅⋅*Basic geometric functions are provided in 16 distinct typefaces and are integrated and free on the system interface (e.g. line, circle, frame, etc.)
 
